@@ -1,11 +1,11 @@
-.holder{
+body{
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	height:100vh;
 	width:100vw;
 }
-.item-1{
+.holder{
 	
 	height:100px;
 	width:100px;
